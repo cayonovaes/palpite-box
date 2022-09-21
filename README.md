@@ -1,4 +1,4 @@
 ## Palpite-Box
 
- - Projeto desenvolvido por mim, juntamente com a formação FullStack Master da Devpleno.
- - O projeto se baseia em um site onde cliente de uma determinada 'Loja X', tem acesso a informações do estabelecimento em questão, e podem dar avaliações, críticas e elogios, logo após a opinião sobre a 'Loja X' os cliente receberam um cupom de desconto.
+ - Project developed by me, along with Devpleno's FullStack Master training.
+ - The project is based on a website where the customer of a particular 'Store X', has access to information about the establishment in question, and can give ratings, criticisms and praise, soon after the opinion about 'Store X' the customers received a coupon discount.
